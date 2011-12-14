@@ -1,4 +1,4 @@
-class HohohoWorld
+class HelloWorld
   def self.hello
     puts "Hello World"
   end
